@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: dotuan0310/ci-cd:staging
+          tags: dotuan0310/ci-cd:newstaging
 
 
   pull-and-up:
